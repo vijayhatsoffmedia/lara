@@ -1,15 +1,20 @@
-import Navbar from "@/components/Navbar"
-import Hero from "@/components/Hero"
-import Services from "@/components/Services"
-import Footer from "@/components/Footer"
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import WhatWeBuild from "./components/WhatWeBuild"
+import WorkProcess from "./components/WorkProcess"
+import Technology from "./components/Technology"
+import Footer from "./components/Footer"
 
 export default function Home() {
   return (
     <main className="bg-black text-white">
-      <Navbar />
-      <Hero />
-      <Services />
-      <Footer />
+
+      <Navbar/>
+      <Hero/>
+      <WhatWeBuild/>
+      <WorkProcess/>
+      <Technology/>
+
     </main>
   )
 }
