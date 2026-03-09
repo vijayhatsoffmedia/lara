@@ -5,11 +5,11 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-8 flex justify-between text-gray-500 text-sm">
 
         <p>
-          © 2026 AIGHT Ltd. All rights reserved.
+          © 2026 LARA Ltd. All rights reserved.
         </p>
 
         <p>
-          UK-based AI & Product Studio
+         IND-based AI & Product Studio
         </p>
 
       </div>

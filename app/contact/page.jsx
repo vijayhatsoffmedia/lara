@@ -55,10 +55,10 @@ export default function ContactPage() {
             </div>
 
             <a
-              href="mailto:ContactUs@aight.uk"
+              href="mailto:ContactUs@LARA.uk"
               className="text-gray-300 hover:text-white transition"
             >
-              ContactUs@aight.uk
+              ContactUs@LARA.uk
             </a>
 
           </div>
@@ -72,7 +72,7 @@ export default function ContactPage() {
             </h3>
 
             <p className="text-gray-400 leading-relaxed">
-              Aight Ltd <br/>
+              LARA Ltd <br/>
               Buckinghamshire <br/>
               United Kingdom <br/>
               Remote-first AI Product Studio

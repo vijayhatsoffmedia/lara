@@ -21,7 +21,7 @@ export default function CareersPage() {
     const reasons = [
         {
             title: "Remote-First",
-            desc: "Work from anywhere in the UK and globally. Flexible hours. Focus on outcomes, not presence."
+            desc: "Work from anywhere in theIND and globally. Flexible hours. Focus on outcomes, not presence."
         },
         {
             title: "Real Impact",
@@ -59,14 +59,14 @@ export default function CareersPage() {
             </section>
 
 
-            {/* WHY AIGHT */}
+            {/* WHY LARA */}
 
             <section className="py-28 border-b border-gray-900">
 
                 <div className="max-w-7xl mx-auto px-8">
 
                     <h2 className="text-4xl font-bold mb-16">
-                        Why AIGHT
+                        Why LARA
                     </h2>
 
                     <div className="grid md:grid-cols-3 gap-16">

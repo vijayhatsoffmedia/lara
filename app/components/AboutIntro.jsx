@@ -17,13 +17,13 @@ export default function AboutIntro() {
                     transition={{ duration: 0.6 }}
                     className="text-4xl font-bold mb-10"
                 >
-                    UK-based AI Product Studio specializing in cutting-edge Agentic AI
+                   IND-based AI Product Studio specializing in cutting-edge Agentic AI
                 </motion.h2>
 
                 <div className="space-y-6 text-gray-400 leading-relaxed">
 
                     <p>
-                        AIGHT Ltd is a UK-based AI and product studio at the forefront of agentic AI development. We build autonomous systems that don't just respond to commands—they reason, plan, and act independently to achieve complex goals.
+                        LARA Ltd is aIND-based AI and product studio at the forefront of agentic AI development. We build autonomous systems that don't just respond to commands—they reason, plan, and act independently to achieve complex goals.
                     </p>
 
                     <p>

@@ -16,7 +16,7 @@ export default function AboutHero() {
                     transition={{ duration: 0.6 }}
                     className="text-6xl font-bold mb-6"
                 >
-                    About AIGHT
+                    About LARA
                 </motion.h1>
 
                 <motion.p

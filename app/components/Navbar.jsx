@@ -22,7 +22,7 @@ export default function Navbar() {
 
                 {/* Logo */}
                 <h1 className="text-xl font-semibold tracking-wide text-white">
-                    AIGHT
+                    LARA
                 </h1>
 
                 {/* Links */}

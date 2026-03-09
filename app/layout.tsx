@@ -4,7 +4,7 @@ import Footer from "./components/Footer"
 import { ReactNode } from "react"
 
 export const metadata = {
-  title: "AIGHT - AI Product Studio",
+  title: "LARA - AI Product Studio",
   description: "AI Product Studio specializing in Agentic AI systems",
 }
 
